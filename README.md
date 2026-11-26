@@ -51,9 +51,7 @@ backend development and automation.
 
   <br/>
 
-  <sub>Available at <a href="https://sheardle.me">sheardle.me</a></sub>
-
-  <br/><br/>
+  <br>
 
 </div>
 
@@ -76,14 +74,7 @@ backend development and automation.
 
 <div align="center">
 
-  <i>Always learning. Always building.</i>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=steelovec&style=flat-square&color=CDB4DB&label=Profile+visitors" />
-
-  <br/><br/>
-
+  <br>
   Thanks for stopping by! 🌱
 
 </div>
