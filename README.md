@@ -75,17 +75,21 @@ backend development and automation.
 
 <div align="center">
 
-  <sub>✦ GAME JAM PROJECT ✦</sub>
+  <h3>🎮 Play the Game</h3>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=M.A.P.S.&fontSize=45&fontColor=A0C4FF&fontAlignY=55" alt="M.A.P.S." width="100%" />
+  <p>Can you decide who deserves to escape?</p>
 
-  <p><b>Trust no one. Every passport tells a story.</b></p>
+  <a href="https://dzimon-dev.itch.io/maps">
+    <img src="https://img.shields.io/badge/Play_M.A.P.S._on_itch.io-FFADAD?style=for-the-badge&logo=itch.io&logoColor=333333" width="250" />
+  </a>
 
-  <p>
-    A sci-fi puzzle game inspired by Papers, Please.<br>
-    Inspect passports and decide who gets to escape a dying planet.<br>
-    Created in seven days by a team of two.
-  </p>
+  <br/><br/>
+
+  <a href="https://dzimon-dev.itch.io/maps">
+    Explore the game · Screenshots · Download
+  </a>
+
+</div>
 
 
 
