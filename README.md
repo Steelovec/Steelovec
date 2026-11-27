@@ -77,17 +77,16 @@ backend development and automation.
 
   <h3>🎮 Play the Game</h3>
 
-  <p>Can you decide who deserves to escape?</p>
+  <p>
+    A Papers, Please-inspired game where you work for M.A.P.S.,<br>
+    deciding who gets to travel to another planet and escape a dying world.
+  </p>
 
   <a href="https://dzimon-dev.itch.io/maps">
     <img src="https://img.shields.io/badge/Play_M.A.P.S._on_itch.io-FFADAD?style=for-the-badge&logo=itch.io&logoColor=333333" width="250" />
   </a>
 
   <br/><br/>
-
-  <a href="https://dzimon-dev.itch.io/maps">
-    Explore the game · Screenshots · Download
-  </a>
 
 </div>
 
