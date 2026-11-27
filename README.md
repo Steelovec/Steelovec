@@ -69,8 +69,25 @@ backend development and automation.
 
 - 🎯 **Tour de App** — Participant
 - 💻 **Hackathon Olomoucký kraj (UPOL)** — Participant
+- 🎮 **Brackeys Game Jam 2026.2** — Game Developer & Art Direction
 
 ---
+
+<div align="center">
+
+  <sub>✦ GAME JAM PROJECT ✦</sub>
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=M.A.P.S.&fontSize=45&fontColor=A0C4FF&fontAlignY=55" alt="M.A.P.S." width="100%" />
+
+  <p><b>Trust no one. Every passport tells a story.</b></p>
+
+  <p>
+    A sci-fi puzzle game inspired by Papers, Please.<br>
+    Inspect passports and decide who gets to escape a dying planet.<br>
+    Created in seven days by a team of two.
+  </p>
+
+
 
 <div align="center">
 
