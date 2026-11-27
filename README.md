@@ -90,8 +90,6 @@ backend development and automation.
 
 </div>
 
-
-
 <div align="center">
 
   <br>
